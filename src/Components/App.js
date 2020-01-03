@@ -2,6 +2,7 @@ import React from "react";
 import Welcome from "./Welcome";
 import List from "./List"; 
 
+
 const App = () => {
     return (
         <>
@@ -9,6 +10,7 @@ const App = () => {
                 <h1><Welcome/></h1>
                 <div>
                     <h2><List/></h2>
+
                 </div>
             </div>
         </>
